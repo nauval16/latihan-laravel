@@ -11,6 +11,7 @@
          <thead>
             <tr>
                 <th>Kode</th>
+                <th>alok</th>
                 <th>Nama Fakultas</th>
             </tr>
         </thead>
